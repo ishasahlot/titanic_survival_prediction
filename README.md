@@ -50,6 +50,7 @@ This project demonstrates the ability to process real-world data, perform classi
 2. Open the Jupyter Notebook `titanic_survival_prediction.ipynb`
 3. Run the cells step-by-step to see preprocessing, model training, and evaluation
 
-📬 Contact
-Isha Sahlot
-[LinkedIn](https://www.linkedin.com/in/ishasahlot)
+**Author**
+Isha Sahlot - LinkedIn : (https://www.linkedin.com/in/isha-sahlot-a18494219/)
+🎓 BTech Computer Science & Engineering (CyberSecurity)
+💻 Beginner in ML | Exploring Data Science 
