@@ -53,5 +53,7 @@ This project demonstrates the ability to process real-world data, perform classi
 **Author**
 
 Isha Sahlot - LinkedIn : (https://www.linkedin.com/in/isha-sahlot-a18494219/)
+
 🎓 BTech Computer Science & Engineering (CyberSecurity)
+
 💻 Beginner in ML | Exploring Data Science 
